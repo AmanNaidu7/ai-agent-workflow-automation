@@ -1,0 +1,37 @@
+[
+  {
+    "ticket_id": "TICK-001",
+    "customer_name": "John Smith",
+    "email": "john.smith@example.com",
+    "subject": "Charged twice for my subscription",
+    "message": "Hi team, I was charged twice this month for the same subscription. Please fix this as soon as possible and let me know when the refund will be processed."
+  },
+  {
+    "ticket_id": "TICK-002",
+    "customer_name": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "subject": "Cannot log into my account",
+    "message": "I have tried resetting my password three times but I still cannot access my account. I need access urgently because I use this for work."
+  },
+  {
+    "ticket_id": "TICK-003",
+    "customer_name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "subject": "Feature request for reporting dashboard",
+    "message": "It would be very useful if the reporting dashboard could export charts directly to PowerPoint. This would help our team a lot."
+  },
+  {
+    "ticket_id": "TICK-004",
+    "customer_name": "Sarah Lee",
+    "email": "sarah.lee@example.com",
+    "subject": "App keeps crashing on startup",
+    "message": "The desktop app crashes every time I open it after the latest update. Please investigate."
+  },
+  {
+    "ticket_id": "TICK-005",
+    "customer_name": "Daniel Wong",
+    "email": "daniel.wong@example.com",
+    "subject": "Very unhappy with support response",
+    "message": "I waited four days for a reply and still did not get a clear answer. This is extremely frustrating and I want this escalated."
+  }
+]
